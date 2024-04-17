@@ -21,11 +21,12 @@ Welcome to the home page, where logged-in users have access to a personalized da
 
 ![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/84e58889-c909-44ed-97a7-d4a72beb128a)
 
-Password Recovery Screen:
-The Password Recovery screen of the Gym Maintenance Tracker app allows users to regain access to their accounts in the event of a forgotten password. This user-friendly interface guides users through the password recovery process, prompting them to enter their username. Upon submission, users change their password in the dataverse. Designed with simplicity and security in mind, the Password Recovery screen ensures a seamless experience for users to regain access to their accounts and resume managing maintenance tasks with ease.
+Password Screen:
+The Password Recovery screen of the Gym Maintenance Tracker app allows users to regain access to their accounts in the event of wanting to change their password. This user-friendly interface guides users through the password changing process, prompting them to enter their username. Upon submission, users change their password in the dataverse. Designed with simplicity and security in mind, the Password Recovery screen ensures a seamless experience for users to regain access to their accounts and resume managing maintenance tasks with ease.
 
 
-![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/55aa400e-2a4e-40f8-8c9c-8557fb51d147)
+![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/a91d8310-f0b1-4d1b-8b86-26599f462ed3)
+
 
 Gym Management Screen:
 The Equipment Photo Capture screen within the Gym Maintenance Tracker app allows staff members to swiftly document the condition of gym equipment. With a simple and intuitive camera interface, users can easily snap photos of equipment issues or maintenance activities directly from their mobile devices. Once captured, photos are seamlessly sent to the gallery for quick access and review. This streamlined process enables efficient documentation of equipment status, facilitating better communication among maintenance staff and ensuring timely resolution of any issues.
