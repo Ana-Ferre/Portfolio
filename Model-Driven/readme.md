@@ -3,7 +3,8 @@ With Dataverse integration, a robust database ecosystem serves as the backbone o
 Together, this integrated solution empowers the team to deliver unparalleled service and support to clients, ensuring that their journey is nothing short of exceptional. Welcome to the future of client management – powered by innovation, driven by excellence.
 
 
-![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/3df6bdb5-b5b5-4e60-a486-0fe6de8b4c83)
+![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/ba872eb3-edb8-4dd2-ac5b-f4fbc0389312)
+
 
 
 ![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/a3dbb48a-2820-4261-a7be-478d49c3f73f)
