@@ -15,4 +15,3 @@ Followin-up there are some screenshots of the report:
 ![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/09e535c9-1456-46b4-9d7c-518cc4ee0fb9)
 
 
-![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/3b8a111e-56fe-489f-8123-303436a994e2)
