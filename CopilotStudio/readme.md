@@ -11,4 +11,3 @@ With our Microsoft Copilot Studio-powered chatbot, getting the information you n
 
 
 
-![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/f969a822-13ed-4bcd-819a-fcf68fdd8344)
