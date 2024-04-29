@@ -27,12 +27,22 @@ Transitioning to the model-driven app, where demonstrates mastery in building ta
 ![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/449b044c-7c59-4a9b-b30f-38a7b138fed4)
 
 
-Finally, immerse yourself in the Power BI report, a dynamic visualization of key insights derived from data analytics. Through meticulous data analysis and visualization techniques, that delivers actionable insights to drive informed decision-making and strategic planning.
+We also did an immersive Power BI report, a dynamic visualization of key insights derived from data analytics. Through meticulous data analysis and visualization techniques, that delivers actionable insights to drive informed decision-making and strategic planning.
 
 [PowerBi Report]
 
 
 ![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/09a4a404-ecd6-4c2f-b485-f5704a3e2364)
+
+
+Finally, with the help of Microsoft Copilot Studio an innovative platform that enables you to build chatbots without writing code, I created a chatbot that can chat with the customers about their doubts and help 
+them make orders of the products of the gym.  
+
+
+[Copilot Studio]
+
+![image](https://github.com/Ana-Ferre/Portfolio/assets/161728944/7f706cae-2b7d-41b0-8eea-0b1041fe10ef)
+
 
 
 Together, these projects showcase my proficiency in leveraging Microsoft Power Platform tools to create innovative solutions that empower businesses to thrive in today's dynamic landscape. Explore my portfolio and witness the transformative power of technology in action.
@@ -43,3 +53,4 @@ Together, these projects showcase my proficiency in leveraging Microsoft Power P
 [Tablet App]: https://github.com/Ana-Ferre/Portfolio/blob/main/PowerAppsTablet/readme.md 
 [PowerBi Report]: https://github.com/Ana-Ferre/Portfolio/blob/main/PowerBi/readme.md
 [Model-driven App]: https://github.com/Ana-Ferre/Portfolio/blob/main/Model-Driven/readme.md
+[Copilot Studio]: https://github.com/Ana-Ferre/Portfolio/blob/main/CopilotStudio/readme.md
