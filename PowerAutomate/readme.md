@@ -1,5 +1,7 @@
 Power Automate:
-Power Automate is a comprehensive, end-to-end cloud automation platform powered by low code and AI. It allows you to streamline processes across your organization, saving time and enabling you to focus on what truly matters. In this project we trained and did many flows to help us understand the advantages of power automate when applied to a business. The time gained doing standart functions and the decrease of potencial manual errors is overwhelming and it makes this a powerfull tool for companies. 
+
+
+Power Automate is a comprehensive, end-to-end cloud automation platform powered by low code and AI. It allows you to streamline processes across your organization, saving time and enabling you to focus on what truly matters. In this project we trained and did many flows to help us understand the advantages of power automate when applied to a business. The time gained doing essential standart procedures and the decrease of potencial manual errors is overwhelming and it makes this a powerfull tool for companies. 
 
 
 
